@@ -1,3 +1,7 @@
+Test if it is OK
+==================================================
+https://ingest-driver-cdz.run.aws-usw02-pr.ice.predix.io/services/driver/ping
+
 Predix Development Kit Winddata Time Series Service
 ==================================================
 
