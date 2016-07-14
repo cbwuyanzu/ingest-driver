@@ -2,6 +2,10 @@ Test if it is OK
 ==================================================
 https://ingest-driver-cdz.run.aws-usw02-pr.ice.predix.io/services/driver/ping
 
+Operation
+==================================================
+https://ingest-driver-cdz.run.aws-usw02-pr.ice.predix.io/services/driver/ingest?tag=test&measure=100
+
 Predix Development Kit Winddata Time Series Service
 ==================================================
 
