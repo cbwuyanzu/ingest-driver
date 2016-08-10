@@ -32,7 +32,7 @@ public interface IngestDataAPI {
 	@GET
 	@Path("/ingest")
 	public Response postDataPoints(@DefaultValue("50") @QueryParam("measure") String measure,
-			@DefaultValue("CHEN") @QueryParam("tag") String tag);
+			@DefaultValue("CHEN") @QueryParam("tag") String tag,@QueryParam("time") String time);
 
 
 }

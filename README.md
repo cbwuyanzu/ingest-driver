@@ -4,7 +4,7 @@ https://ingest-driver-cdz.run.aws-usw02-pr.ice.predix.io/services/driver/ping
 
 Operation
 ==================================================
-https://ingest-driver-cdz.run.aws-usw02-pr.ice.predix.io/services/driver/ingest?tag=test&measure=100
+https://ingest-driver-cdz.run.aws-usw02-pr.ice.predix.io/services/driver/ingest?tag=test&measure=100&time=
 
 Predix Development Kit Winddata Time Series Service
 ==================================================
